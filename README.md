@@ -2,4 +2,4 @@
 Covid Charts
 Daily analysis of the COVID spread using CDC and EU datasets
 Update April 20, 2020
-See Summary slides for April 20 including Upcoming global hot spots, state Phasing view, and Death perspective
+See Summary slides for April 23 including Upcoming global hot spots, state Phasing view, and Death perspective
